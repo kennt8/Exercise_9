@@ -10,6 +10,7 @@ export default function Index() {
       }}
     >
       <Text>1. Kennt Gabriel B. Arguelles 🫶🏼 </Text>
+      <Text>2. Charles Jay B. Eco 🫶🏼 </Text>
     </View>
   );
 }
