@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>Kennt Gabriel B. Arguelles! </Text>
+      <Text>1. Kennt Gabriel B. Arguelles 🫶🏼 </Text>
     </View>
   );
 }
